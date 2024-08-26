@@ -22,7 +22,7 @@ Welcome to the CODSOFT Task Repository! This repository includes projects develo
 5. **Division**: Checks for division by zero and calculates the quotient if the operator is `/`.
 
 This program performs basic arithmetic operations based on user input.
-## 3.Tic-Tac-Toe
+## 3.Number Guessing Game
 
 1. **Random Number Generation**: Initializes a random seed and generates a random number between 1 and 100.
 2. **User Prompt**: Informs the user about the generated random number and prompts them to guess it.
